@@ -2,7 +2,7 @@
 
 I am currently in training to become a front-end web developer.
 
-When I'm not currently coding, I'm probably at a punk rock show :relaxed:
+When I'm not coding, I'm probably at a punk rock show :relaxed:
 
 
 
