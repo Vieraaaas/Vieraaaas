@@ -1,4 +1,10 @@
-### Moin there 👋
+### Moin there, I'm Claas 👋
+
+I am currently in training to become a front-end web developer.
+
+When I'm not currently coding, I'm probably at a punk rock show :relaxed:
+
+
 
 <!--
 **Vieraaaas/Vieraaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
