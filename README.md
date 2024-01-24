@@ -1,22 +1,10 @@
-### Moin there, I'm Claas 👋
+# Moin there, I'm Claas :wave:
 
-I am currently in training to become a front-end web developer.
-
-When I'm not coding, I'm probably at a punk rock show :relaxed:
-
+I fell in love the instant I dragged my first bare-bones <em>index.html</em> into my browser's adress bar.
+Now I'm in training to become a front-end web developer. 
 
 
-<!--
-**Vieraaaas/Vieraaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### When I'm not coding, I enjoy
+- playing the guitar :guitar: and the drums :drum:
+- graphic design :art:
+- music that is either :notes: <em>very quiet</em> :notes: or :boom: <strong>very loud</strong> :boom:
