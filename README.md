@@ -1,6 +1,6 @@
 # Moin there, I'm Claas :wave:
 
-I fell in love the instant I dragged my first bare-bones <i>index.html</i> into my browser's adress bar.
+I fell in love the instant I dragged my first bare-bones <i>index.html</i> into my browser's adress bar. <br>
 Now I'm in training to become a front-end web developer. 
 
 
