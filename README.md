@@ -7,4 +7,4 @@ Now I'm in training to become a front-end web developer.
 ### When I'm not coding, I enjoy
 - playing the guitar :guitar: and the drums :drum:
 - graphic design :art:
-- music that is either :notes: <i>very quiet</i> :notes: or :boom: <strong>very loud</strong> :boom:
+- music that is either :notes: <sub><sup>very quiet</sup></sub> :notes: or :boom: <strong>very loud</strong> :boom:
