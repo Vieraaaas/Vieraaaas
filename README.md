@@ -1,7 +1,8 @@
 # Moin there, I'm Claas :wave:
 
 I fell in love the instant I dragged my first bare-bones <i>index.html</i> into my browser's adress bar. <br>
-Now I'm in training to become a front-end web developer. 
+
+Front-end webdeveloper looking for work. Check out my Lebenslauf in the pinned repos and don't hesitate to get in touch!
 
 
 ### When I'm not coding, I enjoy
